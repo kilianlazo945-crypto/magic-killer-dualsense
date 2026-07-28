@@ -1,1 +1,8 @@
-assets/.gitkeep
+Magic-Killer-Skin/
+│
+├── assets/
+├── css/
+├── source/
+├── preview/
+├── docs/
+└── README.md
